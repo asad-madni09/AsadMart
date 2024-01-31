@@ -1,0 +1,142 @@
+[
+  {
+    "name": "lollypop",
+    "categoryId": "65b0dbcb95eb5f8d5e25130f",
+    "quantity": 20,
+    "description": "A delicious lollipop made with fresh ingredients.",
+    "price": 10
+  },
+  {
+    "name": "cheese",
+    "categoryId": "65b0dbcb95eb5f8d5e25130f",
+    "quantity": 400,
+    "description": "A creamy and delicious cheese.",
+    "price": 200
+  },
+  {
+    "name": "milk",
+    "categoryId": "65b0dbcb95eb5f8d5e25130f",
+    "quantity": 120,
+    "description": "A refreshing and nutritious milk.",
+    "price": 30
+  },
+  {
+    "name": "toaster",
+    "categoryId": "65b0dd6bb263e3d1cc9b1019",
+    "quantity": 100,
+    "description": "A sleek and stylish toaster.",
+    "price": 5000
+  },
+  {
+    "name": "blender",
+    "categoryId": "65b0dd6bb263e3d1cc9b1019",
+    "quantity": 80,
+    "description": "A powerful and versatile blender.",
+    "price": 1000
+  },
+  {
+    "name": "coffee maker",
+    "categoryId": "65b0dd6bb263e3d1cc9b1019",
+    "quantity": 60,
+    "description": "A convenient and easy-to-use coffee maker.",
+    "price": 7000
+  },
+  {
+    "name": "smartphone",
+    "categoryId": "65b0dbc695eb5f8d5e25130d",
+    "quantity": 1000,
+    "description": "A powerful and stylish smartphone.",
+    "price": 50000
+  },
+  {
+    "name": "laptop",
+    "categoryId": "65b0dbc695eb5f8d5e25130d",
+    "quantity": 500,
+    "description": "A powerful and portable laptop.",
+    "price": 40000
+  },
+  {
+    "name": "tablet",
+    "categoryId": "65b0dbc695eb5f8d5e25130d",
+    "quantity": 300,
+    "description": "A convenient and versatile tablet.",
+    "price": 40000
+  },
+  {
+    "name": "t-shirt",
+    "categoryId": "65b0dbd595eb5f8d5e251311",
+    "quantity": 100,
+    "description": "A classic t-shirt in a variety of colors and styles.",
+    "price": 1000
+  },
+  {
+    "name": "jeans",
+    "categoryId": "65b0dbd595eb5f8d5e251311",
+    "quantity": 50,
+    "description": "A comfortable and stylish pair of jeans.",
+    "price": 590
+  },
+  {
+    "name": "dress",
+    "categoryId": "65b0dbd595eb5f8d5e251311",
+    "quantity": 30,
+    "description": "A beautiful and versatile dress.",
+    "price": 700
+  },
+  {
+    "name": "rug",
+    "categoryId": "65b0dbd595eb5f8d5e251311",
+    "quantity": 100,
+    "description": "A stylish and comfortable rug.",
+    "price": 500
+  },
+  {
+    "name": "table lamp",
+    "categoryId": "65b0dd48b263e3d1cc9b1013",
+    "quantity": 50,
+    "description": "A functional and stylish table lamp.",
+    "price": 3000
+  },
+  {
+    "name": "picture frame",
+    "categoryId": "65b0dd48b263e3d1cc9b1013",
+    "quantity": 30,
+    "description": "A beautiful and functional picture frame.",
+    "price": 200
+  },
+  {
+    "name": "puzzle",
+    "categoryId": "65b0dd5db263e3d1cc9b1017",
+    "quantity": 100,
+    "description": "A challenging and fun puzzle for the whole family.",
+    "price": 1905
+  },
+  {
+    "name": "board game",
+    "categoryId": "65b0dd5db263e3d1cc9b1017",
+    "quantity": 50,
+    "description": "A classic board game for hours of entertainment.",
+    "price": 2003
+  },
+  {
+    "name": "consiler",
+    "categoryId": "65b0dd4fb263e3d1cc9b1015",
+    "quantity": 30,
+    "description": "A collectible action figure for fans of all ages.",
+    "price": 2500
+  },
+  {
+    "name": "eyeshadow Palette",
+    "categoryId": "65b0dd4fb263e3d1cc9b1015",
+    "quantity": 100,
+    "description": "A versatile eyeshadow palette with a variety of shades to create a variety of looks.",
+    "price": 300
+  },
+  {
+    "name": "lipstick",
+    "categoryId": "65b0dd4fb263e3d1cc9b1015",
+    "quantity": 50,
+    "description": "A long-lasting lipstick in a variety of colors to suit any occasion.",
+    "price": 200
+  }
+]

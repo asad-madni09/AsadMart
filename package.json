@@ -1,0 +1,15 @@
+{
+  "name": "project-jiomart",
+  "version": "1.0.0",
+  "description": "POST /users/signup: Registers a new user with name, email, password, address, and phone number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "asad madni",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.1.0"
+  }
+}
